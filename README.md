@@ -1,2 +1,2 @@
-# mokop-netflix
+# mokup-netflix
 una copia de netflix
